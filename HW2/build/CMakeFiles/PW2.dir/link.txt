@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/PW2.dir/PW2.c.o  -o PW2 
